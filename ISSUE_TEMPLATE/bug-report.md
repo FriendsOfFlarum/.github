@@ -1,7 +1,8 @@
 ---
 name: "🐛 Bug Report"
 about: "If something isn't working as expected"
-project: FriendsOfFlarum/1
+projects: FriendsOfFlarum/1
+labels: status/needs-triage, type/bug
 ---
 
 <!--
