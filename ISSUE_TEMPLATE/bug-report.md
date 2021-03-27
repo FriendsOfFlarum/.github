@@ -1,3 +1,9 @@
+---
+name: "🐛 Bug Report"
+about: "If something isn't working as expected"
+project: FriendsOfFlarum/1
+---
+
 <!--
 IMPORTANT: If you discover a security vulnerability, please contact us on discord instead. We will address these with the utmost urgency and it will prevent vulnerabilities, which may be abused, from popping up on our issue tracker.
 
