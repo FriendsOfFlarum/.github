@@ -8,7 +8,9 @@ This policy defines how we handle security vulnerabilites and disclosures.
 
 ## Supported Versions
 
-We only provide fixes for the latest versions of our extensions. If you find an issue on an older version of an extension, please attempt to recreate it on the latest version before you notify us.
+We offer security patches for the latest versions of our extensions, and the latest version compatible with the previous core release.
+
+If you find an issue on an older version of an extension, please attempt to recreate it on the latest version before you notify us.
 
 ## Reporting a Vulnerability
 
