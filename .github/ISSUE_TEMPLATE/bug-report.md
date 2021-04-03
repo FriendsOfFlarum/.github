@@ -1,11 +1,16 @@
 ---
 name: "🐛 Bug Report"
 about: "If something isn't working as expected"
-
+projects: FriendsOfFlarum/1
+labels: status/needs-triage, bug
 ---
+
 <!--
 IMPORTANT: If you discover a security vulnerability, please contact us on discord instead. We will address these with the utmost urgency and it will prevent vulnerabilities, which may be abused, from popping up on our issue tracker.
+
+Join Discord: https://discord.gg/tzDPV47
 -->
+
 ## Bug Report
 
 **Current Behavior**
@@ -36,7 +41,7 @@ If applicable, add screenshots to help explain your problem.
 Output of "php flarum info", run this in terminal in your Flarum directory.
 ```
 
-**Possible Solution**
+**Possible solution(s)**
 <!--- Only if you have suggestions or a fix for the bug -->
 
 **Additional Context**
