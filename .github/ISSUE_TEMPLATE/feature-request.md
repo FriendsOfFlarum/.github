@@ -2,7 +2,7 @@
 name: "🚀 Feature Request"
 about: "I have a suggestion (and may want to implement it!)"
 projects: FriendsOfFlarum/1
-labels: status/needs-triage, type/feature
+labels: status/needs-triage, enhancement
 ---
 
 ## Feature Request
