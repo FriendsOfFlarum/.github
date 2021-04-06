@@ -20,4 +20,4 @@ IMPORTANT: We LOVE seeing new pull requests, they excite us every single time th
 
 **Required changes:**
 
-- [ ] Related [Flarum core extension PR's](https://github.com/flarum/core/pulls): (Ommit this section if irrelevant)
+- [ ] Related [Flarum core extension PR's](https://github.com/flarum/core/pulls): (Omit this section if irrelevant)
